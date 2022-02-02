@@ -18,7 +18,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://devgam.s3.sa-east-1.amazonaws.com/clientes/devgam/logo.png
   name: Upptime
