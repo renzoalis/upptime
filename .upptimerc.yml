@@ -12,12 +12,15 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
+assignees:
+  - renzoalis
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://dev-gam.com.ar/images/logo.png
+  baseUrl: /upptime
+  logoUrl: https://devgam.s3.sa-east-1.amazonaws.com/clientes/devgam/logo.png
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
