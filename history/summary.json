@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/oceba.gba.gov.ar",
     "slug": "web",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 1959,
-    "timeDay": 2130,
-    "timeWeek": 1959,
-    "timeMonth": 1959,
-    "timeYear": 1959,
-    "dailyMinutesDown": {
-      "2022-02-05": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1946,
+    "timeDay": 1927,
+    "timeWeek": 1946,
+    "timeMonth": 1946,
+    "timeYear": 1946,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Intranet",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/oceba.gba.gov.ar",
     "slug": "intranet",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 1593,
-    "timeDay": 1541,
-    "timeWeek": 1593,
-    "timeMonth": 1593,
-    "timeYear": 1593,
-    "dailyMinutesDown": {
-      "2022-02-05": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1577,
+    "timeDay": 1545,
+    "timeWeek": 1577,
+    "timeMonth": 1577,
+    "timeYear": 1577,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Extranet",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/oceba.gba.gov.ar",
     "slug": "extranet",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 1559,
-    "timeDay": 1477,
-    "timeWeek": 1559,
-    "timeMonth": 1559,
-    "timeYear": 1559,
-    "dailyMinutesDown": {
-      "2022-02-05": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1558,
+    "timeDay": 1508,
+    "timeWeek": 1558,
+    "timeMonth": 1558,
+    "timeYear": 1558,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Servidor de Archivos",
@@ -70,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4867,
-    "timeDay": 3613,
-    "timeWeek": 4867,
-    "timeMonth": 4867,
-    "timeYear": 4867,
+    "time": 4618,
+    "timeDay": 3626,
+    "timeWeek": 4618,
+    "timeMonth": 4618,
+    "timeYear": 4618,
     "dailyMinutesDown": {}
   }
 ]
