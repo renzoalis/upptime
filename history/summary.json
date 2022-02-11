@@ -4,19 +4,19 @@
     "url": "https://oceba.gba.gov.ar",
     "icon": "https://favicons.githubusercontent.com/oceba.gba.gov.ar",
     "slug": "web",
-    "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
-    "time": 1799,
-    "timeDay": 1559,
-    "timeWeek": 1782,
-    "timeMonth": 1799,
-    "timeYear": 1799,
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
+    "time": 1896,
+    "timeDay": 2259,
+    "timeWeek": 1913,
+    "timeMonth": 1896,
+    "timeYear": 1896,
     "dailyMinutesDown": {
-      "2022-02-11": 42
+      "2022-02-11": 60
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://oceba.gba.gov.ar/intranet",
     "icon": "https://favicons.githubusercontent.com/oceba.gba.gov.ar",
     "slug": "intranet",
-    "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
-    "time": 1539,
-    "timeDay": 1807,
-    "timeWeek": 1506,
-    "timeMonth": 1539,
-    "timeYear": 1539,
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
+    "time": 1544,
+    "timeDay": 1701,
+    "timeWeek": 1516,
+    "timeMonth": 1544,
+    "timeYear": 1544,
     "dailyMinutesDown": {
-      "2022-02-11": 41
+      "2022-02-11": 60
     }
   },
   {
