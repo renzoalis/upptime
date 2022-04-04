@@ -17,7 +17,7 @@ sites:
     maxResponseTime: 5000
   - name: Test monitor
     url: https://oceba.gba.gov.ar/intranet/reclamos/adjuntos/3/seia-163850850.png
-    maxResponseTime: 5000
+    maxResponseTime: 500
 
 assignees:
   - renzoalis
