@@ -4,9 +4,9 @@
     "url": "https://oceba.gba.gov.ar",
     "icon": "https://favicons.githubusercontent.com/oceba.gba.gov.ar",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -16,6 +16,7 @@
     "timeMonth": 3011,
     "timeYear": 1874,
     "dailyMinutesDown": {
+      "2022-04-04": 0,
       "2022-02-11": 60
     }
   },
@@ -100,7 +101,7 @@
     "timeMonth": 705,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2022-04-04": 240
+      "2022-04-04": 248
     }
   }
 ]
