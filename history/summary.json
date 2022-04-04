@@ -46,18 +46,17 @@
     "icon": "https://favicons.githubusercontent.com/oceba.gba.gov.ar",
     "slug": "extranet",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.89%",
     "time": 1455,
     "timeDay": 1400,
     "timeWeek": 1400,
     "timeMonth": 1400,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2022-04-04": 12,
       "2022-02-28": 30,
       "2022-02-16": 22,
       "2022-02-11": 41
@@ -89,19 +88,19 @@
     "url": "https://oceba.gba.gov.ar/intranet/reclamos/adjuntos/3/seia-1632850850.png",
     "icon": "https://favicons.githubusercontent.com/oceba.gba.gov.ar",
     "slug": "test-monitor",
-    "status": "down",
+    "status": "degraded",
     "uptime": "0.02%",
     "uptimeDay": "0.02%",
     "uptimeWeek": "0.02%",
     "uptimeMonth": "0.02%",
     "uptimeYear": "0.02%",
-    "time": 709,
-    "timeDay": 709,
-    "timeWeek": 709,
-    "timeMonth": 709,
-    "timeYear": 709,
+    "time": 705,
+    "timeDay": 705,
+    "timeWeek": 705,
+    "timeMonth": 705,
+    "timeYear": 705,
     "dailyMinutesDown": {
-      "2022-04-04": 232
+      "2022-04-04": 240
     }
   }
 ]
