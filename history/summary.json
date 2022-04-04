@@ -45,9 +45,9 @@
     "url": "https://oceba.gba.gov.ar/extranet",
     "icon": "https://favicons.githubusercontent.com/oceba.gba.gov.ar",
     "slug": "extranet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -57,6 +57,7 @@
     "timeMonth": 1350,
     "timeYear": 1456,
     "dailyMinutesDown": {
+      "2022-04-04": 0,
       "2022-02-28": 30,
       "2022-02-16": 22,
       "2022-02-11": 41
@@ -68,18 +69,18 @@
     "icon": "https://favicons.githubusercontent.com/oceba.gba.gov.ar",
     "slug": "servidor-de-archivos",
     "status": "degraded",
-    "uptime": "99.90%",
-    "uptimeDay": "96.76%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.89%",
+    "uptimeDay": "96.23%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.89%",
     "time": 3434,
     "timeDay": 5779,
     "timeWeek": 5779,
     "timeMonth": 5779,
     "timeYear": 3434,
     "dailyMinutesDown": {
-      "2022-04-04": 47,
+      "2022-04-04": 55,
       "2022-02-11": 41
     }
   },
@@ -100,7 +101,7 @@
     "timeMonth": 681,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2022-04-04": 55
+      "2022-04-04": 62
     }
   }
 ]
