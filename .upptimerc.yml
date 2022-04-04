@@ -15,6 +15,9 @@ sites:
   - name: Servidor de Archivos
     url: https://oceba.gba.gov.ar/intranet/reclamos/adjuntos/3/seia-1638550850.png
     maxResponseTime: 5000
+  - name: Test monitor
+    url: https://oceba.gba.gov.ar/intranet/reclamos/adjuntos/3/seia-163850850.png
+    maxResponseTime: 5000
 
 assignees:
   - renzoalis
