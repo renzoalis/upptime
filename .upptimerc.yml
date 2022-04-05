@@ -9,18 +9,21 @@ sites:
      - 200
      - 201
      - 404
+     - 0
   - name: Intranet
     url: https://oceba.gba.gov.ar/intranet
     expectedStatusCodes:
      - 200
      - 201
      - 404
+     - 0
   - name: Extranet
     url: https://oceba.gba.gov.ar/extranet
     expectedStatusCodes:
      - 200
      - 201
      - 404
+     - 0
   - name: Servidor de Archivos
     url: https://oceba.gba.gov.ar/intranet/reclamos/adjuntos/3/seia-1638550850.png
     
