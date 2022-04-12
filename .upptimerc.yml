@@ -26,6 +26,11 @@ sites:
      - 0
   - name: Servidor de Archivos
     url: https://oceba.gba.gov.ar/intranet/reclamos/adjuntos/3/seia-1638550850.png
+    expectedStatusCodes:
+     - 200
+     - 201
+     - 404
+     - 0
     
 assignees:
   - renzoalis
