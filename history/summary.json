@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1759,
-    "timeDay": 1442,
-    "timeWeek": 1605,
-    "timeMonth": 1572,
-    "timeYear": 1720,
+    "time": 1758,
+    "timeDay": 1431,
+    "timeWeek": 1580,
+    "timeMonth": 1564,
+    "timeYear": 1719,
     "dailyMinutesDown": {
       "2023-03-17": 17
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1541,
-    "timeDay": 1496,
-    "timeWeek": 1591,
-    "timeMonth": 1539,
+    "time": 1540,
+    "timeDay": 1413,
+    "timeWeek": 1566,
+    "timeMonth": 1529,
     "timeYear": 1565,
     "dailyMinutesDown": {
       "2023-03-17": 17
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1407,
-    "timeDay": 4478,
-    "timeWeek": 1906,
-    "timeMonth": 1453,
+    "time": 1406,
+    "timeDay": 1178,
+    "timeWeek": 1802,
+    "timeMonth": 1442,
     "timeYear": 1396,
     "dailyMinutesDown": {
       "2023-03-17": 17
@@ -65,22 +65,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/oceba.gba.gov.ar.ico",
     "slug": "servidor-de-archivos",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.23%",
-    "time": 2703,
-    "timeDay": 2042,
-    "timeWeek": 2415,
-    "timeMonth": 2332,
-    "timeYear": 2402,
+    "uptimeYear": "99.28%",
+    "time": 2702,
+    "timeDay": 2238,
+    "timeWeek": 2390,
+    "timeMonth": 2327,
+    "timeYear": 2412,
     "dailyMinutesDown": {
       "2023-03-20": 828,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 54,
-      "2022-05-03": 43
+      "2023-03-17": 54
     }
   }
 ]
