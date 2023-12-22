@@ -1,7 +1,7 @@
 url: https://oceba.gba.gov.ar/extranet
-status: down
-code: 503
-responseTime: 801
-lastUpdated: 2023-12-22T15:47:29.661Z
+status: up
+code: 200
+responseTime: 1175
+lastUpdated: 2023-12-22T15:55:12.648Z
 startTime: 2022-02-02T20:44:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
