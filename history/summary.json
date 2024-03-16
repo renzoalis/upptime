@@ -10,16 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1721,
-    "timeDay": 2198,
-    "timeWeek": 1784,
-    "timeMonth": 1729,
+    "time": 1720,
+    "timeDay": 1432,
+    "timeWeek": 1738,
+    "timeMonth": 1713,
     "timeYear": 1705,
     "dailyMinutesDown": {
       "2023-11-21": 73,
       "2023-10-08": 20,
-      "2023-10-02": 15,
-      "2023-03-17": 17
+      "2023-10-02": 15
     }
   },
   {
@@ -33,15 +32,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1617,
-    "timeDay": 1505,
-    "timeWeek": 1527,
-    "timeMonth": 1588,
+    "time": 1616,
+    "timeDay": 1393,
+    "timeWeek": 1510,
+    "timeMonth": 1577,
     "timeYear": 1602,
     "dailyMinutesDown": {
       "2023-10-08": 20,
-      "2023-10-02": 15,
-      "2023-03-17": 17
+      "2023-10-02": 15
     }
   },
   {
@@ -50,20 +48,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/oceba.gba.gov.ar.ico",
     "slug": "extranet",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1398,
-    "timeDay": 1337,
-    "timeWeek": 1328,
-    "timeMonth": 1368,
+    "timeDay": 1181,
+    "timeWeek": 1326,
+    "timeMonth": 1356,
     "timeYear": 1404,
     "dailyMinutesDown": {
       "2023-10-08": 20,
-      "2023-10-02": 15,
-      "2023-03-17": 17
+      "2023-10-02": 15
     }
   },
   {
@@ -77,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.09%",
-    "time": 2503,
-    "timeDay": 2327,
-    "timeWeek": 2257,
-    "timeMonth": 2379,
-    "timeYear": 2560,
+    "time": 2502,
+    "timeDay": 1901,
+    "timeWeek": 2239,
+    "timeMonth": 2357,
+    "timeYear": 2559,
     "dailyMinutesDown": {
       "2023-12-22": 143,
       "2023-10-08": 20,
@@ -89,8 +86,7 @@
       "2023-10-02": 61,
       "2023-03-20": 828,
       "2023-03-19": 1440,
-      "2023-03-18": 1440,
-      "2023-03-17": 54
+      "2023-03-18": 1440
     }
   }
 ]
