@@ -1,7 +1,7 @@
 url: https://oceba.gba.gov.ar
-status: up
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-04T10:53:47.409Z
+status: down
+code: 503
+responseTime: 1278
+lastUpdated: 2024-08-04T11:07:10.567Z
 startTime: 2022-02-02T20:44:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
