@@ -1,7 +1,7 @@
 url: https://oceba.gba.gov.ar/intranet
-status: up
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-04T06:24:04.859Z
+status: down
+code: 503
+responseTime: 619
+lastUpdated: 2024-08-04T06:37:17.947Z
 startTime: 2022-02-02T20:44:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
