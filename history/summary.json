@@ -10,18 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 1775,
-    "timeDay": 1718,
-    "timeWeek": 1655,
-    "timeMonth": 1734,
-    "timeYear": 1803,
+    "time": 1773,
+    "timeDay": 1465,
+    "timeWeek": 1647,
+    "timeMonth": 1717,
+    "timeYear": 1802,
     "dailyMinutesDown": {
       "2024-08-04": 975,
       "2024-08-03": 346,
       "2024-07-30": 41,
       "2023-11-21": 73,
-      "2023-10-08": 20,
-      "2023-10-02": 15
+      "2023-10-08": 20
     }
   },
   {
@@ -36,16 +35,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 1638,
-    "timeDay": 1405,
-    "timeWeek": 1628,
-    "timeMonth": 1514,
-    "timeYear": 1642,
+    "timeDay": 1419,
+    "timeWeek": 1623,
+    "timeMonth": 1513,
+    "timeYear": 1641,
     "dailyMinutesDown": {
       "2024-08-04": 1206,
       "2024-08-03": 345,
       "2024-07-30": 41,
-      "2023-10-08": 20,
-      "2023-10-02": 15
+      "2023-10-08": 20
     }
   },
   {
@@ -59,17 +57,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 1386,
-    "timeDay": 1187,
-    "timeWeek": 1282,
-    "timeMonth": 1299,
+    "time": 1385,
+    "timeDay": 1209,
+    "timeWeek": 1281,
+    "timeMonth": 1292,
     "timeYear": 1378,
     "dailyMinutesDown": {
       "2024-08-04": 1222,
       "2024-08-03": 351,
       "2024-07-30": 34,
-      "2023-10-08": 20,
-      "2023-10-02": 15
+      "2023-10-08": 20
     }
   },
   {
@@ -83,11 +80,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.91%",
-    "time": 2416,
-    "timeDay": 1887,
-    "timeWeek": 2264,
-    "timeMonth": 2300,
-    "timeYear": 2323,
+    "time": 2417,
+    "timeDay": 2234,
+    "timeWeek": 2247,
+    "timeMonth": 2285,
+    "timeYear": 2321,
     "dailyMinutesDown": {
       "2024-08-04": 1138,
       "2024-08-03": 336,
@@ -101,8 +98,7 @@
       "2024-03-20": 198,
       "2023-12-22": 143,
       "2023-10-08": 20,
-      "2023-10-03": 796,
-      "2023-10-02": 61
+      "2023-10-03": 796
     }
   }
 ]
