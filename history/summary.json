@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
-    "time": 1798,
-    "timeDay": 1555,
-    "timeWeek": 2058,
-    "timeMonth": 1755,
-    "timeYear": 1856,
-    "dailyMinutesDown": {
-      "2024-08-04": 975
-    }
+    "uptimeYear": "99.82%",
+    "time": 1821,
+    "timeDay": 1851,
+    "timeWeek": 2086,
+    "timeMonth": 1763,
+    "timeYear": 1845,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Intranet",
@@ -29,15 +27,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
-    "time": 1621,
-    "timeDay": 1867,
-    "timeWeek": 1513,
-    "timeMonth": 1635,
-    "timeYear": 1656,
-    "dailyMinutesDown": {
-      "2024-08-04": 1206
-    }
+    "uptimeYear": "99.80%",
+    "time": 1622,
+    "timeDay": 1824,
+    "timeWeek": 1581,
+    "timeMonth": 1637,
+    "timeYear": 1645,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Extranet",
@@ -49,15 +45,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.80%",
     "time": 1347,
-    "timeDay": 1295,
-    "timeWeek": 1290,
-    "timeMonth": 1346,
-    "timeYear": 1349,
-    "dailyMinutesDown": {
-      "2024-08-04": 1222
-    }
+    "timeDay": 1505,
+    "timeWeek": 1309,
+    "timeMonth": 1355,
+    "timeYear": 1331,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Servidor de Archivos",
@@ -65,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/oceba.gba.gov.ar.ico",
     "slug": "servidor-de-archivos",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.72%",
-    "time": 2307,
-    "timeDay": 2202,
-    "timeWeek": 2296,
-    "timeMonth": 2335,
-    "timeYear": 2311,
-    "dailyMinutesDown": {
-      "2024-08-04": 1138
-    }
+    "uptimeYear": "99.81%",
+    "time": 2309,
+    "timeDay": 2986,
+    "timeWeek": 2365,
+    "timeMonth": 2368,
+    "timeYear": 2333,
+    "dailyMinutesDown": {}
   }
 ]
